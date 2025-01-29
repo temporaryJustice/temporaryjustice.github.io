@@ -20,7 +20,7 @@ Hello everyone, welcome to my blog. I have no idea who is going to read this, bu
 
 ### CPTS Blog
 
-If you came to check out my review of the certification, click [here](./writeups.md).
+If you came to check out my review of the certification, click [here](./blog.md).
 
 
 #### What now?

@@ -1,25 +1,25 @@
 remote_theme: CaptainIRS/hacker-plus-theme
 
-title:
-author:
-description: 
+title: lrdvile
+author: lrdvile
+description: This is a blog about my activity in cybersec.
 disqus_forum_shortname:
 google_site_verification_content: # The 'content' tag for site verification
 google_analytics: # Your Google Analytics Tracking ID
 
 # Usernames and badges
-htb_badge_no: # Go to the HackTheBox site and copy your ID
+htb_badge_no: 1684232# Go to the HackTheBox site and copy your ID
 thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
 show_thm_htb_badges_in_nav: false
-github_username: 
+github_username: temporaryjustice
 gitlab:
 medium:
 stackoverflow:
 hacker_news:
 linkedin:
-twitch:
-youtube:
-twitter: 
+twitch: 
+youtube: https://www.youtube.com/@lrdvile
+twitter: x.com/lrdvile
 facebook:
 instagram:
 reddit:

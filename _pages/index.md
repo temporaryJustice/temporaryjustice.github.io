@@ -2,154 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Whoami
 
-[Link to another page](./writeups.html).
+Hello everyone, welcome to my blog. I have no idea who is going to read this, but that's the point of a blog right? Anyways, I'm a security researcher who likes everything related to logic. Yes, I do like math... I like low level programming like ASM and C! I am fascinated by logical bugs. I like watchtowr labs ;). I'm pretty young (I guess). 19 years old. I have experience in malware development, pentesting and web security. Finally, I am looking forward into the exploit development field, as it combines all of my interests!
 
-There should be whitespace between paragraphs.
+## My experience
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-<pre 
-  class="command-line" 
-  data-prompt="kali@kali $" 
-  data-output="4"
-><code class="language-bash"># Bash script with shell
-echo "flag{i_4m_a_f14g}" > flag.txt
-cat flag.txt
-flag{i_4m_a_f14g}
-rm flag.txt</code>
-</pre> 
-
-<pre class="line-numbers" 
-  data-start="1" 
-  data-line="6-7"
-><code class="language-dart">// Dart code with line numbers
-// Line 6 and 7 are highlighted
-
-import 'dart:ui';
-
-import 'package:shared_preferences_web/shared_preferences_web.dart';
-import 'package:url_launcher_web/url_launcher_web.dart';
-
-import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-
-// ignore: public_member_api_docs
-void registerPlugins(PluginRegistry registry) {
-  SharedPreferencesPlugin.registerWith(registry.registrarFor(SharedPreferencesPlugin));
-  UrlLauncherPlugin.registerWith(registry.registrarFor(UrlLauncherPlugin));
-  registry.registerMessageHandler();
-}</code></pre>
+- CPTS (Certified Penetration Tester Specialist)
+- CTFs
+- Little bit of bug bounty hunting
+- About a year and a half of work in IT as a researcher and helpdesk
 
 
-#### Header 4
+> A bug is never just a mistake. It represents something bigger. 
+> An error of thinking that makes you who you are.
+> -Mr.Robot
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### CPTS Blog
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+If you came to check out my review of the certification, click [here](./writeups.md).
 
 
-### Definition lists can be used with HTML syntax.
+#### What now?
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Well... Now that I have finished CPTS, I think I have the basics (and a little more) of the concept of hacking a computer. Although, I use exploits and don't create them. So, from now on, my ultimate goal is to learn exploit development. I am currently reviewing my C knowledge and plan on learning more assembly. Afterwards, I will start learning basic concepts of exploitation and debugging with ret2war games. I've always been thinking "Yeah I should focus on exploiting windows, since it's the most used OS, right?"... Right? 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Well, I changed my mind. Why? Because products like Forti, citrix, Ivanti, Sonicwall, etc... dont run on Windows. At least, the servers... Anyways, enough talking, I will be documenting my learning in this blog and doing some reviews of the websites I learn on, etc...
 
-```
-The final element.
-```
+Ultimately, I want to be able to make my own lab and reproduce CVEs from scratch. 
